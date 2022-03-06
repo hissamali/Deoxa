@@ -12,9 +12,9 @@ const Home = () => {
                         <div className="col-lg-6">
                             <p className="text">CREATIVE MARKETING</p>
                             <div className="hero-section">
-                                <h2 className="hero-1">
+                                <h3 className="hero-1">
                                     Get Your Professional Website Done With
-                                    <span className="Deoxa"> Deoxa</span></h2> <div>
+                                    <span className="Deoxa"> Deoxa</span></h3> <div>
                                     <p className="text-muted mb-4 pb-2 hero-para">At vero eos et accusamus
                                         iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos at dolores molestias excepturi sint occaecati cupiditate.
                                     </p>
