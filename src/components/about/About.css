@@ -1,6 +1,8 @@
 .container-section{
     padding: 0px 100px;
     background-color: #fff;
+    /* height: 100vh; */
+    padding-bottom: 6rem;
 }
 .about-content{
     padding-top: 7rem;
@@ -17,7 +19,7 @@
     color: #000;
 }
 .body-section{
-    padding-top: 5rem;
+    padding-top: 3rem;
 }
 .about-section{
     display: flex;
@@ -28,7 +30,7 @@
     padding-bottom: 4rem;
 }
 .about-pick{
-    width: 450px;  
+    width: 350px;  
 }
 .our-title{
     padding-left: 40rem;
@@ -41,11 +43,12 @@
 }
 .mission-title{
     padding-top: 1rem;
-    line-height: 1.5rem;
+    font-size: 15px;
+    line-height: 1.1rem;
     color: rgb(15, 15, 15);
 }
 .btn-icon{
-    padding-top: 2rem;
+    padding-top: 1rem;
 }
 @media screen and (max-width:1350px) {
     .our-title{

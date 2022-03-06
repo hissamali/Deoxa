@@ -7,13 +7,14 @@
 }
 .footer-title{
     color: #fff;
-    font-size: 25px;
+    font-size: 18px;
     font-weight: 300;
 }
 .input-form{
     padding: 15px 100px;
     border-radius: 5px;
     outline: none;
+    border: none;
 }
 .subscribe{
     margin: 0 2px;
